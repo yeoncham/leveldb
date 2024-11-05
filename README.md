@@ -1,5 +1,4 @@
-##system programming
-#leveldb open source project
+# #system programming
+# leveldb open source project
 
-This is a project that improves the concept of linking.
-Especially while handling CMakeLists.txt 
+This project enhances the concept of linking, with a particular focus on handling `CMakeLists.txt` files.
