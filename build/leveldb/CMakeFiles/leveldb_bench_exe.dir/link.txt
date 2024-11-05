@@ -1,0 +1,1 @@
+/usr/bin/c++   -fno-exceptions -fno-rtti   CMakeFiles/leveldb_bench_exe.dir/__/main.cpp.o  -o leveldb_bench_exe   -L/home/student11/linking_lab/leveldb/build  -L/home/student11/linking_lab/snappy/build  -Wl,-rpath,/home/student11/linking_lab/leveldb/build:/home/student11/linking_lab/snappy/build libleveldb.a -lsnappy -pthread -pthread 
